@@ -18,12 +18,19 @@ Clone --> Build --> Input pointcloud --> visualize
 ### Building
 
 ```
-$ ./cgal_create_cmake_script
+$ cgal_create_cmake_script
 $ cmake .
 $ make
 $ ./Improve_DT
 ```
 * In case of build failure try clearing cache of cmake
+
+### Progress pics 
+
+* [Drive](https://drive.google.com/open?id=0BzT2RJmWrKsiT3dTWFdWV0p6Rmc)
+* [Imgur](http://imgur.com/a/23XCR)
+
+
 
 ## To-do list 
 - [x] Topology recover 
